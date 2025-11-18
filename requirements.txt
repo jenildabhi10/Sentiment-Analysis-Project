@@ -1,0 +1,12 @@
+# Core dependencies
+pandas==2.2.2
+transformers==4.46.1
+torch==2.4.1
+
+# Optional: For Jupyter Notebook users
+notebook==7.2.2
+ipykernel==6.29.5
+
+# Helpful utilities
+tqdm==4.66.4
+numpy==1.26.4
