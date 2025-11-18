@@ -12,23 +12,6 @@ It reads sentences from a CSV file, analyzes their sentiment using a pretrained 
 
 You can run this project easily in a Jupyter notebook or as a standalone Python script.
 
----
-
-## 🧾 Table of Contents
-1. [Demo](#demo)
-2. [Features](#features)
-3. [Project Structure](#project-structure)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Code Example](#code-example)
-7. [Results](#results)
-8. [Model Information](#model-information)
-9. [Requirements](#requirements)
-10. [Contributing](#contributing)
-11. [License](#license)
-
----
-
 ## 🎯 Demo
 
 **Input CSV (`sentiment_analysis.csv`):**
@@ -196,8 +179,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 - [PyTorch](https://pytorch.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [OpenAI ChatGPT](https://chat.openai.com/) for guidance 😉
 
----
 
-⭐ **If you like this project, don’t forget to give it a star on GitHub!**
